@@ -1,14 +1,14 @@
 {
-  "name": "react-scripts",
-  "version": "0.6.1",
+  "name": "@powerreviews/react-scripts",
+  "version": "1.0.0-alpha",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "facebookincubator/create-react-app",
+  "repository": "ifeanyi/create-react-app",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=4"
   },
   "bugs": {
-    "url": "https://github.com/facebookincubator/create-react-app/issues"
+    "url": "https://github.com/ifeanyi/create-react-app/issues"
   },
   "files": [
     ".babelrc",
